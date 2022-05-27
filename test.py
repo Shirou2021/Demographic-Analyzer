@@ -1,5 +1,5 @@
 import analyzer
-from unittest import main
+from unittest import test
 
 # Test your function by calling it here
 analyzer.data_analysis()
