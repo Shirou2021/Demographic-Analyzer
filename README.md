@@ -12,3 +12,6 @@ parsed, the program will output the answers to some of questions, like:
 
 More info about 1994 Census database can be found be at 
 "https:census.gov"
+
+For testing, simply use the command "python3 main.py" to test all possible 
+cases for this particular program. 
